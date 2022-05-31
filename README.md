@@ -1,2 +1,2 @@
 # DSA
-lab tasks related to Data structures.
+Programme for for Compressing Text file using Huffman Coding.
